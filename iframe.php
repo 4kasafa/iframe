@@ -1,5 +1,5 @@
 <?php
-$tes=(isset($_GET['url']))?$_GET['url'] : "http://localhost:8158/";
+$tes=(isset($_GET['url']))?$_GET['url'] : "";
 ?>
 <html lang="en">
  <head>
@@ -8,10 +8,10 @@ $tes=(isset($_GET['url']))?$_GET['url'] : "http://localhost:8158/";
  <title>iframe</title>
  </head>
 <body style="width: 1030; padding: 3">
- <h1>Responsif Checker</h1>
+ <h1>Responsive Checker</h1>
  <form>
  URL Address:<br>
- <input type="text" name="url" placeholder="URL Address" value="<?php echo $tes;?>" autofocus>
+ <input type="text" name="url" placeholder="http://localhost:8080/" value="<?php echo $tes;?>" autofocus>
  <br>
  <button type="submit">Check</button>
 </form>
