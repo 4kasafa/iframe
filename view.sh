@@ -1,3 +1,37 @@
-z="
-";DBz=' |  ';oz='/\ /';uBz='0.0 ';mz=' ___';iz='__| ';sBz='  : ';Oz='1;1m';KCz='pr i';NCz='p';WBz=' " ║';sz='\ / ';gz='\ \ ';aBz=': KA';Gz='cho ';BCz='read';GCz='" pr';HCz='php ';nBz=':   ';Zz='`';Bz='r';Jz='1m"`';ICz='-S $';yz=' V /';rz='_ \ ';wz='/';GBz='V /';ZBz='r   ';JBz='___|';qz=' \ '\''';Rz='e=`e';XBz=' • A';yBz=' " ╚';MBz='|\__';fBz='age ';VBz='══╗"';qBz='Addr';RBz='p 0.';oBz=' [+]';Qz='whit';HBz='\_/\';pBz=' IP ';LBz='/ \_';dBz=' • L';SBz='5';QBz=' ""';YBz='utho';gBz=': Ba';hz=' / /';mBz=' ex ';Tz='dgre';KBz='_.__';vBz=' Por';OBz='_/\_';ABz='/ |_';FCz=';';PBz='/  "';ECz='" ip';fz='  _';hBz='sh &';cz='__  ';Dz='p 1';Xz='3[0;';MCz='e.ph';Kz='red=';xBz='8080';FBz=' V  ';Sz='[37;';vz=' \ /';ez='   _';tz='/ |/';IBz='_/ \';wBz='t   ';Iz='[32;';kBz='══╣"';JCz='ip:$';NBz='_| \';ACz='══╝"';jBz=' " ╠';Yz='32m"';lBz=' [!]';EBz='__/\';Uz='en=`';Lz='`ech';CBz='V /|';Mz='o "\';Hz='"\33';Cz='slee';Nz='33[3';rBz='ess ';jz='|___';cBz='  ║"';kz='_   ';LCz='fram';az=' "  ';tBz='0.0.';Az='clea';CCz=' -p ';uz=' _ \';iBz=' php';Wz=' "\3';UBz='════';Ez='gree';Vz='echo';bBz='SAFA';bz='    ';nz='__';pz=' / _';BBz=') \ ';lz='_(_)';xz='\ V ';DCz='"[+]';eBz='angu';Fz='n=`e';TBz=' " ╔';dz='  __';Pz='"`';
-eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$Oz$Pz$z$Qz$Rz$Gz$Hz$Sz$Jz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$Vz$az$bz$cz$bz$dz$ez$bz$bz$fz$z$gz$bz$hz$iz$jz$kz$lz$mz$cz$bz$nz$z$gz$oz$pz$qz$rz$sz$tz$uz$vz$sz$wz$z$xz$yz$dz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$LBz$ABz$MBz$NBz$OBz$PBz$z$Vz$QBz$z$Cz$RBz$SBz$z$Vz$TBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$VBz$z$Vz$WBz$XBz$YBz$ZBz$aBz$bBz$bz$bz$bz$bz$bz$bz$bz$cBz$z$Vz$WBz$dBz$eBz$fBz$gBz$hBz$iBz$bz$bz$bz$bz$bz$bz$cBz$z$Vz$jBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$kBz$z$Cz$RBz$SBz$z$Vz$WBz$lBz$mBz$nBz$bz$bz$bz$bz$bz$bz$bz$bz$bz$cBz$z$Vz$WBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$bz$bz$bz$bz$bz$cBz$z$Vz$WBz$oBz$vBz$wBz$bz$sBz$xBz$bz$bz$bz$bz$bz$bz$cBz$z$Vz$yBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$UBz$ACz$z$Vz$QBz$z$Cz$RBz$SBz$z$BCz$CCz$DCz$pBz$qBz$rBz$sBz$ECz$FCz$z$BCz$CCz$DCz$vBz$wBz$bz$sBz$GCz$FCz$z$Vz$QBz$z$HCz$ICz$JCz$KCz$LCz$MCz$NCz"
+#!/bin/bash
+clear
+sleep 1
+
+green=`echo "\33[32;1m"`
+red=`echo "\33[31;1m"`
+white=`echo "\33[37;1m"`
+dgreen=`echo "\33[0;32m"`
+echo "      __        __   _          _
+      \ \      / /__| |____   _(_) _____      __
+       \ \ /\ / / _ \ '_ \ \ / / |/ _ \ \ /\ / /
+        \ V  V /  __/ |_) \ V /| |  __/\ V  V / 
+         \_/\_/ \___|_.__/ \_/ |_|\___| \_/\_/  "
+echo ""
+sleep 0.5
+echo " ╔══════════════════════════════════════════════════╗"
+echo " ║ • Author   : KASAFA                              ║"
+echo " ║ • Language : Bash & php                          ║"
+echo " ╠══════════════════════════════════════════════════╣"
+sleep 0.5
+echo " ║ [!] ex :                                         ║"
+
+echo " ║ [+] IP Address   : 0.0.0.0                       ║"
+
+echo " ║ [+] Port         : 8080                          ║"
+
+echo " ╚══════════════════════════════════════════════════╝"
+echo ""
+sleep 0.5
+
+read -p "[+] IP Address   : " ip;
+read -p "[+] Port         : " pr;
+
+echo ""
+
+php -S $ip:$pr iframe.php
+
